@@ -3,12 +3,12 @@
 /*
 
   GPS DEMO CODE - READ AND PROCESS SOME DATA 
-  Interrupt driven UART ring buffer for atmega164p
+  Interrupt driven UART test buffer for atmega164p
   Keith Legg 8,8,2013
 
 
   // SAMPLE DATA LOOKS LIKE THIS :
-  // $GPRMC,054123.000,A,4402.4926,N,12257.6825,W,0.00,152.38,080813,,,A*73
+  // $GPRMC,054123.000,A,12123.4926,N,4455.6825,W,0.00,152.38,080813,,,A*73
 
 */
 
